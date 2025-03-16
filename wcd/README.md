@@ -70,13 +70,80 @@ Basic commands in Git include:
   (Fedora).
 
   **b. Connecting Git with GitHub**
-  1. Create a GitHub account at github.com.
-  2. Configure Git with your GitHub account:
+
+  1.Create a GitHub account at github.com.
+
+  2.Configure Git with your GitHub account:
   ```bash
   git config --global user.name "Your Name"
   git config --global user.email "email@domain.com"
   ```
+  3.Generate an SSH key to connect Git with GitHub:
+  ```bash
+  ssh-keygen -t rsa -b 4096 -C "email@domain.com"
+  ```
+  4.Add the SSH key to GitHub through your account settings.
 
-  
+  **c. Creating a Repository and Managing Code**
+
+  Creating a repository on GitHub:
+
+1.Click **New Repository** on GitHub
+
+2.Provide a name and description, then choose **public** or **private.**
+
+3.Click **Create Repository.**
+
+  **Connecting a Local Git Repository to GitHub:**
+  ```bash
+  git remote add origin https://github.com/username/repository.git
+  ```
+  **Uploading Code for the First Time:**
+  ```bash
+  git add .
+  git commit -m "Initialize repository"
+  git push -u origin main
+  ```
+  # 2.Benefits of Using Git and GitHub
+  Some key benefits of using Git and GitHub include:
+
+- Improving team efficiency through structured version control.
+- Facilitating collaboration without the need to manually share code.
+- Supporting automation with CI/CD features available in GitHub Actions.
+- Enhancing security by enabling rollbacks to previous versions in case of errors.
+ 
+# 3. Initializing a Git Repository
+Now, we will start working with Git by creating a new repository.
+
+Create a new directory and initialize Git:
+```bash
+git init
+```
+![1](https://github.com/user-attachments/assets/2e159f46-6bcb-4a78-8baa-2180a3064939)
+
+After running `git status`, copy the files you want to commit `git add`.
+
+![git add](https://github.com/user-attachments/assets/434e28cd-d53e-4ee6-bc47-658ceb6bd06c)
+
+After adding the files, provide a commit message.
+
+![git commit](https://github.com/user-attachments/assets/5e94c6b2-8e3f-4135-9041-3c568d707709)
+
+Once done, create a branch using `git branch`, then push it to the GitHub repository you have created using `git push`.
+
+![git branch](https://github.com/user-attachments/assets/fe18d611-b679-4d32-8df5-8c4625713ced)
+
+![Screenshot 2025-03-16 173703](https://github.com/user-attachments/assets/6dfc1336-9f5e-42f7-920d-9e0d089f8c07)
+
+Once everything is done using the previous steps, open your GitHub repository and check the files that have been committed.
+
+
+
+
+
+
+
+
+
 
    
