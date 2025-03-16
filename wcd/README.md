@@ -156,11 +156,47 @@ The tasks to be performed include:
 - Removing the first occurrence of a specific substring from a string.
 - Checking whether a string is a palindrome.
 
-1.Conversion from Fahrenheit to Celsius
+**1.Conversion from Fahrenheit to Celsius**
+
+![11](https://github.com/user-attachments/assets/1bde6a3a-a21a-434e-ae8e-98962b44658b)
+
+The result of Conversion from Fahrenheit to Celsius with the Javascript code command that has been run by the terminal :
+
+![hasil 11](https://github.com/user-attachments/assets/70281b6c-61a8-4d9b-a7a2-c32797498ca6)
+
+**2.Converting values between centimeters and kilometers.**
+
+![2](https://github.com/user-attachments/assets/dc0663b0-508e-4d98-a7cc-e31107e1ca32)
+
+The result of Converting values ​​between centimeters and kilometers with Javascript code that has been run by the terminal :
+
+![hasil 2](https://github.com/user-attachments/assets/791b8a2c-5bda-4e8e-8430-7a2053816197)
+
+**3.Determining whether a given number is odd or even.**
+
+![3](https://github.com/user-attachments/assets/4e28bad1-2ad5-4963-87a1-d0ef4e7f37c5)
+
+The result of Determining whether a given number is odd or even with Javascript code that has been run by the terminal :
+
+![hasil 3](https://github.com/user-attachments/assets/97d579e1-7834-4c15-9205-86c2e8ab17c6)
+
+**4.Removing the first occurrence of a specific substring from a string.**
+
+![4](https://github.com/user-attachments/assets/55a928f0-0ba9-4179-a2a9-8984b7a6f651)
+
+The result of Removing the first occurrence of a specific substring from a string. with Javascript code that has been run by the terminal :
+
+![hasil 4](https://github.com/user-attachments/assets/8e658a60-62b1-43b3-8ddb-9561592bfcb8)
+
+**5.Checking whether a string is a palindrome.**
+
+![5](https://github.com/user-attachments/assets/896d9537-b116-4239-af19-04efa3cfcb98)
+
+The result of Checking whether a string is a palindrome with Javascript code that has been run by the terminal :
+
+![hasil 5](https://github.com/user-attachments/assets/44493694-e4ad-4d3f-8327-8a04d6b211b1)
 
 
 
 
 
-
-   
