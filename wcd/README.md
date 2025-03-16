@@ -137,9 +137,26 @@ Once done, create a branch using `git branch`, then push it to the GitHub reposi
 
 Once everything is done using the previous steps, open your GitHub repository and check the files that have been committed.
 
+![Screenshot 2025-03-16 174057](https://github.com/user-attachments/assets/91b1c963-684e-4bdc-ac61-977f8ff36cae)
 
+![Screenshot 2025-03-16 174117](https://github.com/user-attachments/assets/6fc62ae1-c914-4447-9da6-708ed4dc7a27)
 
+Okay, the files we committed were successfully uploaded! 🎉
 
+# Now, let's create a simple JavaScript script.
+![Screenshot 2025-03-14 152126](https://github.com/user-attachments/assets/c0397a0d-dc1d-45b0-a056-9fc634e03b26)
+
+This exercise focuses on developing simple JavaScript scripts to solve common programming problems. Each script is designed to deepen understanding of arithmetic operations, string manipulation, and control structures in JavaScript.
+
+The tasks to be performed include:
+
+- Converting temperature from Fahrenheit to Celsius.
+- Converting values between centimeters and kilometers.
+- Determining whether a given number is odd or even.
+- Removing the first occurrence of a specific substring from a string.
+- Checking whether a string is a palindrome.
+
+1.Conversion from Fahrenheit to Celsius
 
 
 
